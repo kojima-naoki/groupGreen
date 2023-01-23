@@ -1,0 +1,802 @@
+<!DOCTYPE HTML>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="utf-8">
+<meta name="viewport" content="width=1150">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<link rel="stylesheet" href="https://news.1242.com/wp-content/themes/news1242_PC/js/swiper-bundle.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://news.1242.com/wp-content/themes/news1242_PC/style.css?20220909828">
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://news.1242.com/feed" />
+
+<link rel="pingback" href="https://news.1242.com/xmlrpc.php">
+<link rel="shortcut icon" href="https://news.1242.com/wp-content/themes/news1242_PC/img/favicon.ico"> 
+<link rel="apple-touch-icon" href="https://news.1242.com/wp-content/themes/news1242_PC/img/apple-touch-icon.png">
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.1.0.js"></script>
+<script src="https://news.1242.com/wp-content/themes/news1242_PC/js/function.js" charset="utf-8"></script>
+
+<link rel="canonical" href="https://news.1242.com/article/144047">
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//news.1242.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://news.1242.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://news.1242.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://news.1242.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://news.1242.com/wp-json/" /><link rel="alternate" type="application/json" href="https://news.1242.com/wp-json/wp/v2/posts/144047" /><link rel="alternate" type="application/json+oembed" href="https://news.1242.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.1242.com%2Farticle%2F144047" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.1242.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.1242.com%2Farticle%2F144047&#038;format=xml" />
+
+<title>青信号に青リンゴ、青汁……どうして「緑」を「青」というの？  &#8211;  ニッポン放送 NEWS ONLINE</title>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="//www.googletagmanager.com/gtag/js?id=UA-153766325-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153766325-1');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5R63PKS');</script>
+<!-- End Google Tag Manager -->
+
+<meta property="fb:app_id" content="1517656511869439" />
+<meta property="article:publisher" content="https://www.facebook.com/am1242" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://news.1242.com/wp-content/uploads/2018/05/PAK86_miagerebamidori1226_TP_Vb.jpg" />
+<meta property="og:title" content="青信号に青リンゴ、青汁……どうして「緑」を「青」というの？" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://news.1242.com/article/144047" />
+<meta property="og:site_name" content="ニッポン放送 NEWS ONLINE" />
+<meta property="og:description" content="青信号、よーく見ると緑色じゃない？　そう思ったこと、ありませんか？　青リンゴは鮮やかな黄緑で、青汁だって葉っぱの深緑。常夏の青い海がいくらエメラルドグリーンだとしても「海が青くてきれいだね」と言ってしまいます。 実は、そ..." />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@NEWSONLINE1242">
+<meta name="twitter:title" content="青信号に青リンゴ、青汁……どうして「緑」を「青」というの？" />
+<meta name="twitter:description" content="青信号、よーく見ると緑色じゃない？　そう思ったこと、ありませんか？　青リンゴは鮮やかな黄緑で、青汁だって葉っぱの深緑。常夏の青い海がいくらエメラルドグリーンだとしても「海が青くてきれいだね」と言ってしまいます。 実は、そ..." />
+<meta name="twitter:image:src" content="https://news.1242.com/wp-content/uploads/2018/05/PAK86_miagerebamidori1226_TP_Vb.jpg" />
+
+<meta name="keywords" content="ハロー千葉,ニッポン放送 NEWS ONLINE">
+<meta name="description" content="青信号、よーく見ると緑色じゃない？　そう思ったこと、ありませんか？　青リンゴは鮮やかな黄緑で、青汁だって葉っぱの深緑。常夏の青い海がいくらエメラルドグリーンだとしても「海が青くてきれいだね」と言ってしまいます。 実は、そ...">
+
+<!-- Structured Markup -->
+<script type="application/ld+json">
+{
+	"@context" : "http://schema.org",
+	"@type" : "Article",
+	"name" : "青信号に青リンゴ、青汁……どうして「緑」を「青」というの？",
+	"author" : {
+			"@type" : "Organization",
+			"name" : "NEWS ONLINE 編集部"
+	},
+	"headline": "青信号に青リンゴ、青汁……どうして「緑」を「青」というの？",
+	"publisher": {
+		"@type": "organization",
+		"name": "株式会社ニッポン放送",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://news.1242.com/wp-content/themes/news1242_PC/img/lf-logo.png"
+		}
+	},
+	"datePublished" : "2018-05-13",
+	"dateModified": "2018-05-13",
+	"image" : "https://news.1242.com/wp-content/uploads/2018/05/PAK86_miagerebamidori1226_TP_Vb.jpg",
+	"mainEntityOfPage": "https://news.1242.com/article/144047"
+}
+</script>
+
+<!-- ads -->
+<script type="text/javascript" src="https://pdn.adingo.jp/p.js" async></script>
+<script type="text/javascript">
+  var fluctAdScript = fluctAdScript || { cmd: [] };
+  fluctAdScript.cmd.push(function (cmd) {
+    cmd.enablePpidIntegration();
+  });
+</script>
+
+<!-- GAMスクリプトの読み込み -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<!-- BID STRAPスクリプトの読み込み -->
+<script async src="https://fam.adingo.jp/bid-strap/nippon-housou/pb.js"></script>
+<script>
+    var bsttag = window.bsttag || {cmd: []};
+    bsttag.failSafeTimeout = 3000; //header bidding全体のタイムアウト
+    bsttag.launchAuction = function (slots) {
+        var hbm = {};
+        bsttag.cmd.push(function(cmd) {
+            hbm = cmd.requestBids({adUnits: slots});
+        });
+        
+        setTimeout(function () {
+            if (hbm.isRequestSent) {
+                return;
+            }
+            hbm.isRequestSent = true;
+            googletag.cmd.push(function() {
+                googletag.pubads().refresh(slots);
+            });
+        }, bsttag.failSafeTimeout);
+    };
+</script>
+
+<!-- 広告枠の定義と、BID STRAPの呼び出し -->
+<script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_970x250_header_26228', [[728, 90], [970, 250]], 'div-gpt-ad-1578642485266-0').addService(googletag.pubads());
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_728x90_overlay_26228', [728, 90], 'div-gpt-ad-1591946294368-0').addService(googletag.pubads());
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_300x250_kiji1_26228', [[300, 250], [336, 280]], 'div-gpt-ad-1578642496759-0').addService(googletag.pubads());
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_300x250_kiji2_26228', [[300, 250], [336, 280]], 'div-gpt-ad-1578642509131-0').addService(googletag.pubads());
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_300x250_rightcolumn1st_26228', [[300, 250], [336, 280]], 'div-gpt-ad-1578642521034-0').addService(googletag.pubads());
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_300x250_right-2_26228', [[300, 250], [336, 280]], 'div-gpt-ad-1578642532595-0').addService(googletag.pubads());
+        googletag.defineSlot('/62532913,6423683/p_nipponhousou_300x250_right-3_26228', [[300, 600], [336, 280], [300, 250]], 'div-gpt-ad-1578642545677-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+        
+        bsttag.launchAuction();
+    });
+</script><!-- /ads -->
+<!-- outbrain -->
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+</head>
+
+<body class="post-template-default single single-post postid-144047 single-format-standard">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5R63PKS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- header -->
+<header id="header">
+<nav id="header_nav">
+	<ul id="menu-header-menu" class="container"><li id="menu-item-97033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97033"><a href="https://www.1242.com/">ニッポン放送</a></li>
+<li id="menu-item-97035" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97035"><a href="https://www.1242.com/timetable_tt/">番組表</a></li>
+<li id="menu-item-97034" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97034"><a href="https://www.1242.com/personality/">アナウンサー＆パーソナリティー</a></li>
+<li id="menu-item-97036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97036"><a href="https://www.allnightnippon.com/">オールナイトニッポン</a></li>
+<li id="menu-item-97037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97037"><a href="https://baseballking.jp/showup">ショウアップナイター</a></li>
+<li id="menu-item-97038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97038"><a href="https://event.1242.com/">イベント</a></li>
+</ul></nav>
+<div class="container" id="header_title">
+	<h1 id="sitetitle"><a href="https://news.1242.com/">ニッポン放送 NEWS ONLINE</a></h1>
+	<ul id="menu-header-social" class="menu-social"><li id="menu-item-97039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97039"><a href="https://www.facebook.com/am1242/">facebook</a></li>
+<li id="menu-item-97040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97040"><a href="https://twitter.com/NEWSONLINE1242">Twitter</a></li>
+<li id="menu-item-97041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97041"><a href="https://www.youtube.com/channel/UCTLUf5otEetTThajFlHG_iQ">youtube</a></li>
+</ul></div>
+<nav id="global_nav">
+<div class="container">
+	<ul id="menu-global-menu" class="global-menu"><li id="menu-item-97026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97026"><a href="https://news.1242.com/article/category/entertainment">エンタメ</a></li>
+<li id="menu-item-97027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97027"><a href="https://news.1242.com/article/category/news">ニュース</a></li>
+<li id="menu-item-97028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97028"><a href="https://news.1242.com/article/category/sports">スポーツ</a></li>
+<li id="menu-item-97029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97029"><a href="https://news.1242.com/article/category/column">コラム</a></li>
+<li id="menu-item-97030" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-97030"><a href="https://news.1242.com/article/category/life">ライフ</a></li>
+<li id="menu-item-97031" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-97031"><a href="https://news.1242.com/article-new">新着記事</a></li>
+<li id="menu-item-202813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202813"><a href="https://news.1242.com/ranking">ランキング</a></li>
+</ul>	<div id="box_search">
+	<form role="search" method="get" id="searchform" class="searchform" action="https://news.1242.com/">
+	<label class="screen_reader_text" for="s">検索:</label>
+	<input type="text" placeholder="Search ..." value="" name="s" id="s">
+	</form>
+	<a href="javascript:void(0)">Search</a>
+	</div>
+</div>
+</nav>
+</header>
+<!-- /header -->
+
+<div class="ads-header">
+<!-- /62532913/p_nipponhousou_970x250_header_26228 -->
+<div id='div-gpt-ad-1578642485266-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1578642485266-0'); });
+</script>
+</div>
+</div>
+	
+
+<!-- main -->
+<main id="main" class="container">
+
+
+<!-- breadcrumb -->
+<ul id="breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList">
+	<li property="itemListElement" typeof="ListItem">
+		<a href="https://news.1242.com/" property="item" typeof="WebPage"><span property="name">TOP</span></a>
+		<meta property="position" content="1">
+	</li>
+		<li property="itemListElement" typeof="ListItem">
+		<a href="https://news.1242.com/article/category/life" property="item" typeof="WebPage"><span property="name">ライフ</span></a>
+		<meta property="position" content="2">
+	</li>
+		<li property="itemListElement" typeof="ListItem">
+		<span property="name">青信号に青リンゴ、青汁……どうして「緑」を「青」というの？</span>
+		<meta property="position" content="3">
+	</li>
+
+</ul>
+<!-- /breadcrumb -->
+<div id="main_list">
+<article class="single-page">
+	<div class="entry_title">
+		<h1><a href="https://news.1242.com/article/144047">青信号に青リンゴ、青汁……どうして「緑」を「青」というの？</a></h1>
+		<p><span class="author">By - <a href="https://news.1242.com/article/author/ohnuki" title="NEWS ONLINE 編集部 の投稿" rel="author">NEWS ONLINE 編集部</a></span>
+		　公開：<time>2018-05-13</time>
+		　更新：<time>2018-05-13</time></p>
+		<p class="entry_tags"><a href="https://news.1242.com/article/category/life">ライフ</a><a href="https://news.1242.com/article/special/chiba">ハロー千葉</a><a href="https://news.1242.com/article/tag/%e3%83%8f%e3%83%ad%e3%83%bc%e5%8d%83%e8%91%89" rel="tag">ハロー千葉</a></p>
+	</div>
+
+	<section class="entry_main">
+<p><img src="https://news.1242.com/wp-content/uploads/2018/05/PAK86_miagerebamidori1226_TP_Va-1.jpg" alt="" width="680" height="453" /></p>
+<p>青信号、よーく見ると緑色じゃない？　そう思ったこと、ありませんか？　青リンゴは鮮やかな黄緑で、青汁だって葉っぱの深緑。常夏の青い海がいくらエメラルドグリーンだとしても「海が青くてきれいだね」と言ってしまいます。</p>
+<p>実は、その“緑も青も「青」だって表現してしまう”現象には日本の歴史が大きく影響しているのです。</p>
+<p><strong><br />
+青信号に青リンゴ、青汁……どうして「緑」を「青」というの？</strong></p>
+<p>時間は平安時代にまでさかのぼります。かつてこの日本には色を表す言葉は4つしかありませんでした。「赤」「白」「黒」そして「青」。それで世界のすべての色彩を伝えなければならないので、今よりも幅広くそれらの色の名は使われるようになりました。みずみずしいもの、若々しいもの、緑だけではなく紫や灰色までも青という言葉にしました。青と緑に分かれるのは平安時代末期から鎌倉時代になってからです。</p>
+<p>この日本文化の基本的な4つの色は今でも特別で、そのままで形容詞になりえます。「赤い」「白い」「黒い」「青い」。他にも「黄」と「茶」は「黄色い」「茶色い」と名前に「色」と「い」をつけて形容詞になります。けれど、例えば「緑」は「緑い」や「緑色い」とはならず「緑の」となります。</p>
+<p>話は戻りまして日本の青信号、最初の頃は「緑信号」でした。けれどその緑信号を当時の新聞記事では青と表現したのです。それが広まり、戦後、法律で表記を「青信号」とするようになりました。けれど正確には青緑色、英語では「Green Light」と呼ばれ、国際的には信号は「緑・黄・赤」とされています。</p>
+<p>文化の歴史によって日本では緑色をした信号を青と表現するようになったなんて、面白いですね。</p>
+<p>&nbsp;</p>
+<p><div id="attachment_103953" style="width: 690px" class="wp-caption alignnone"><a href="https://www.city.chiba.jp/keizainosei/keizai/promotion/midoritoasobo.html" target="_blank" rel="noopener noreferrer"><img aria-describedby="caption-attachment-103953" src="https://news.1242.com/wp-content/uploads/2018/05/70banner730_341a.jpg" alt="みどりとあそぼ 千葉市 観光" width="680" height="318" /></a><p id="caption-attachment-103953" class="wp-caption-text">観光ガイド『みどりとあそぼ』（千葉市HPより）</p></div></p>
+<p>さて、日一日と緑が濃くなるこの季節、アウトドア派でなくても、なんとなく外に出かけたくなりますよね。今回は、千葉市が発行した観光ガイドブック<strong>『みどりとあそぼ』</strong>をご紹介します。</p>
+<p>千葉市は、内陸部の若葉区と緑区を「グリーンエリア」に位置づけています。『みどりとあそぼ』では、“千葉市の緑に里帰り”をキャッチフレーズに春から初夏にかけて楽しめる自然や施設、モデルプランを紹介しています。これからですと、里山のサイクリングや、ゲンジボタルの観察…なんていいですよね。</p>
+<p>『みどりとあそぼ』は、B5サイズで、カラー8ページ。東京都内の旅行案内所やファミリーレストラン、京葉道路の幕張パーキングエリアなどで配布しています。また、「千葉市観光ガイド」の特設ページでもご覧いただけます。</p>
+<p>都内から1時間程度とアクセスも便利。みなさんも千葉市でリフレッシュしませんか。</p>
+<blockquote><p><strong>観光ガイド『みどりとあそぼ』の特徴</strong><br />
+春から初夏までの期間（4月1日～7月8日）だからこそ楽しめる市内陸部（若葉区・緑区）の「食べる」「見る」「遊ぶ」「農体験・里山体験」など、魅力的な観光情報をギュッと凝縮し、掲載しています。<br />
+特設ページ：<a href="http://www.chibacity-ta.or.jp/wakaba_midori" target="_blank" rel="noopener noreferrer">http://www.chibacity-ta.or.jp/wakaba_midori</a></p>
+<p><a href="https://www.city.chiba.jp/keizainosei/keizai/promotion/midoritoasobo.html" target="_blank" rel="noopener noreferrer">https://www.city.chiba.jp/keizainosei/keizai/promotion/midoritoasobo.html</a></p></blockquote>
+<p><strong>【ハロー千葉】</strong></p>
+<div class="page-links">
+<p>
+</p>
+</div>
+	</section>
+
+
+<!-- 240/chiba/ハロー千葉 -->
+<div class="box-btn_sns">
+	<ul>
+		<li><a href="http://twitter.com/share?url=https://news.1242.com/article/144047&text=%E9%9D%92%E4%BF%A1%E5%8F%B7%E3%81%AB%E9%9D%92%E3%83%AA%E3%83%B3%E3%82%B4%E3%80%81%E9%9D%92%E6%B1%81%E2%80%A6%E2%80%A6%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%80%8C%E7%B7%91%E3%80%8D%E3%82%92%E3%80%8C%E9%9D%92%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%EF%BC%9F&via=NEWSONLINE1242" target="_blank">ツイートする</a></li>
+		<li><a href="https://m.facebook.com/sharer.php?u=https://news.1242.com/article/144047" target="_blank" rel="nofollow">シェアする</a></li>
+		<li><a href="line://msg/text/?%0D%0Ahttps://news.1242.com/article/144047">送る</a></li>
+		<li><a href="https://b.hatena.ne.jp/add?mode=confirm&url=https://news.1242.com/article/144047&title=%E9%9D%92%E4%BF%A1%E5%8F%B7%E3%81%AB%E9%9D%92%E3%83%AA%E3%83%B3%E3%82%B4%E3%80%81%E9%9D%92%E6%B1%81%E2%80%A6%E2%80%A6%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%80%8C%E7%B7%91%E3%80%8D%E3%82%92%E3%80%8C%E9%9D%92%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%EF%BC%9F" target="_blank" rel="nofollow">はてな</a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
+	</ul>
+</div>
+</article>
+
+
+<div class="ads-main">
+	<div class="box-flex">
+	<div>
+<!-- /62532913/p_nipponhousou_300x250_kiji1_26228 -->
+<div id='div-gpt-ad-1578642496759-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1578642496759-0'); });
+</script>
+</div>
+	</div>
+	<div>
+<!-- /62532913/p_nipponhousou_300x250_kiji2_26228 -->
+<div id='div-gpt-ad-1578642509131-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1578642509131-0'); });
+</script>
+</div>
+	</div>
+	</div>
+</div>
+
+<div id="related-list">
+<h2 class="list_title"><span>関連記事</span></h2>
+<div id="related-list-in">
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/143295"><figure><img src="https://news.1242.com/wp-content/themes/news1242_PC/img/no-image.png" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">みりんとみりん風調味料を分けるたったひとつのポイント</h3>
+	<p class="entry_meta">
+	<time>2018.05.04</time>	</p>
+	</div>
+	</a>
+	</article>
+	
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/143229"><figure><img src="https://news.1242.com/wp-content/themes/news1242_PC/img/no-image.png" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">2,000年以上前の実から花開いた神秘的な「大賀ハス」</h3>
+	<p class="entry_meta">
+	<time>2018.05.03</time>	</p>
+	</div>
+	</a>
+	</article>
+	
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/143189"><figure><img width="230" height="143" src="https://news.1242.com/wp-content/uploads/2018/04/18.04b-230x143.jpg"  alt="" decoding="async" loading="lazy" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「早起きは三文の徳」の三文っていくらくらい？</h3>
+	<p class="entry_meta">
+	<time>2018.05.02</time>	</p>
+	</div>
+	</a>
+	</article>
+	
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/143125"><figure><img width="230" height="143" src="https://news.1242.com/wp-content/uploads/2018/04/bicycle-1209682_1280b-230x143.jpg"  alt="" decoding="async" loading="lazy" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">自転車が「チャリンコ」と呼ばれるようになった理由は？</h3>
+	<p class="entry_meta">
+	<time>2018.05.01</time>	</p>
+	</div>
+	</a>
+	</article>
+	
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/142767"><figure><img width="230" height="143" src="https://news.1242.com/wp-content/uploads/2018/04/PPG_kiirokukouyoushitaicyounoha_TP_Vb-230x143.jpg"  alt="" decoding="async" loading="lazy" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">イチョウの葉が本のしおりに最適な理由</h3>
+	<p class="entry_meta">
+	<time>2018.04.27</time>	</p>
+	</div>
+	</a>
+	</article>
+	
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/142632"><figure><img width="230" height="143" src="https://news.1242.com/wp-content/uploads/2018/04/161112215152DSCF7217_TP_Vb-230x143.jpg"  alt="" decoding="async" loading="lazy" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">冒険家ってどうなるの？　どうやってお金を稼ぐの？</h3>
+	<p class="entry_meta">
+	<time>2018.04.26</time>	</p>
+	</div>
+	</a>
+	</article>
+	
+</div>
+</div>
+<!-- Array -->
+<div id="pickup-list">
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1"></div>
+</div>
+<!-- /OB -->
+</div><!-- /#main_list -->
+
+<!-- side -->
+<!-- side -->
+<aside id="sidebar">
+
+<div class="ads-sidebar">
+<!-- /62532913/p_nipponhousou_300x250_rightcolumn1st_26228 -->
+<div id='div-gpt-ad-1578642521034-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1578642521034-0'); });
+</script>
+</div>
+</div>
+
+<? // サイドバー　ランキング表示 ?>
+
+
+<!-- sidebar rank -->
+<div id="side_ranking">
+<h2 class="list_title">
+<strong>Ranking</strong>
+<span>ライフの人気記事ランキング</span>
+</h2>
+<div class="swiper-container swiper-wrapper tab_switch">
+<div class="swiper-wrapper">
+<button id="tab_daily" class="swiper-slide">Daily</button><button id="tab_weekly" class="swiper-slide">Weekly</button>
+</div>
+</div>
+<div class="swiper-container tab_body">
+<div class="swiper-wrapper">
+<!-- daily -->
+<div class="tab_list swiper-slide" id="tab_daily-body">
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/155702"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2018/09/italy-1264104_960_720-samune-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2018/09/italy-1264104_960_720-samune-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2018/09/italy-1264104_960_720-samune-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">『レア』『ミディアム』『ウェルダン』以外にもたくさんある肉の焼き方</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2018.09.19</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/147801"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2018/06/cross-364676_1280b-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2018/06/cross-364676_1280b-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2018/06/cross-364676_1280b-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">1週間の始まりは何曜日？　『日曜始まり』と『月曜始まり』の成り立ち</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2018.06.25</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/193776"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2020/01/db27417f07afc46f9d914d82827d2bd8_sTRRS-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2020/01/db27417f07afc46f9d914d82827d2bd8_sTRRS-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2020/01/db27417f07afc46f9d914d82827d2bd8_sTRRS-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">インフルエンザにかかる人とかからない人の差は？　医師が回答</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2020.01.08</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/185597"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2019/09/680-4-2-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2019/09/680-4-2-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2019/09/680-4-2-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">瀬戸内寂聴 ダメな時はダメ。人生はなるようにしかならない</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2019.09.25</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/117761"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2017/05/w680-1-16-100x100.jpg"  alt="「寂しい」と「淋しい」" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2017/05/w680-1-16-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2017/05/w680-1-16-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「寂しい」と「淋しい」の違いは何？　意味も違うの？</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2017.05.22</time>	</p>
+	</div>
+	</a>
+	</article>
+</div>
+
+<!-- weekly -->
+<div class="tab_list swiper-slide" id="tab_weekly-body">
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/193776"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2020/01/db27417f07afc46f9d914d82827d2bd8_sTRRS-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2020/01/db27417f07afc46f9d914d82827d2bd8_sTRRS-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2020/01/db27417f07afc46f9d914d82827d2bd8_sTRRS-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">インフルエンザにかかる人とかからない人の差は？　医師が回答</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2020.01.08</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/411732"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/24354131_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/24354131_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/24354131_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">再流行し、感染者数が1万人を超えた「梅毒」の恐ろしさ　あなたは大丈夫？</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.16</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/403331"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2022/12/23521039_mTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2022/12/23521039_mTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2022/12/23521039_mTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">就寝中に起こる「こむら返り」の原因は何か</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2022.12.06</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/117761"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2017/05/w680-1-16-100x100.jpg"  alt="「寂しい」と「淋しい」" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2017/05/w680-1-16-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2017/05/w680-1-16-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「寂しい」と「淋しい」の違いは何？　意味も違うの？</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2017.05.22</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/155702"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2018/09/italy-1264104_960_720-samune-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2018/09/italy-1264104_960_720-samune-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2018/09/italy-1264104_960_720-samune-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">『レア』『ミディアム』『ウェルダン』以外にもたくさんある肉の焼き方</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2018.09.19</time>	</p>
+	</div>
+	</a>
+	</article>
+</div>
+</div>
+</div>
+<script src="https://news.1242.com/wp-content/themes/news1242_PC/js/swiper-bundle.min.js"></script>
+<script type="text/javascript">
+	var tabSwitch = new Swiper('.tab_switch', {
+		spaceBetween: 0,
+		slidesPerView: 2,
+		freeMode: true,
+		watchSlidesVisibility: true,
+		watchSlidesProgress: true,
+		allowTouchMove: false,
+	});
+	var tabSlide = new Swiper('.tab_body', {
+		thumbs: {
+			swiper: tabSwitch
+		}
+	});
+</script>
+
+</div>
+<!-- /sidebar rank -->
+
+<div class="ads-sidebar">
+<!-- /62532913/p_nipponhousou_300x250_right-2_26228 -->
+<div id='div-gpt-ad-1578642532595-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1578642532595-0'); });
+</script>
+</div>
+</div>
+
+<!-- sidebar latest -->
+<div id="side_latest">
+	<h2 class="list_title"><span>ライフの新着記事</span></h2>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/413657"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/9ee86cc0-d879-4fe2-bd6e-66314f7ee1b8-1-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/9ee86cc0-d879-4fe2-bd6e-66314f7ee1b8-1-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/9ee86cc0-d879-4fe2-bd6e-66314f7ee1b8-1-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">20代も注意！「骨粗しょう症」になる傾向が強い人の特徴とは　整形外科医が解説</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.23</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/412331"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/25654348_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/25654348_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/25654348_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">江戸～明治時代に「イチゴ」栽培が「普及しづらかった」原因とは？</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.23</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/413373"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/3415485_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/3415485_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/3415485_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「これほどまでに？」　コロナ禍での20歳未満の自殺者の増加率が「半端ない」</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.23</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/404426"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2022/12/20221209_hakozaki_TR_IMG_0366-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2022/12/20221209_hakozaki_TR_IMG_0366-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2022/12/20221209_hakozaki_TR_IMG_0366-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「マリー・クワントの生き様がカッコよすぎました」ニッポン放送アナウンサー・箱崎みどり</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.20</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/411430"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/3532535_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/3532535_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/3532535_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">銀行に置かれた「観葉植物」と「強盗」の意外な関係性</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.20</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/413230"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/25492667_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/25492667_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/25492667_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">東京都医師会副会長が警告　インフルエンザが「流行する兆候」早めにワクチン接種を</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.20</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/411417"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/25300024_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/25300024_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/25300024_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「観葉植物」と「盆栽」って、具体的に何が違うの？</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.19</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/412971"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/25543345_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/25543345_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/25543345_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">梅毒は「5類」で新型コロナは「2類相当」　感染症はどう分けられているのか</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.19</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/412560"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/fda2575ddd379b7285d1f936b4a578a4-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/fda2575ddd379b7285d1f936b4a578a4-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/fda2575ddd379b7285d1f936b4a578a4-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">世界各地のごみ処理場を巡った『珍道中！ ごみ紀行』　なぜ「ごみ処理場」に注目したのか</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.18</time>	</p>
+	</div>
+	</a>
+	</article>
+	<article class="entry_list thumb">
+	<a href="https://news.1242.com/article/411082"><figure><img width="100" height="100" src="https://news.1242.com/wp-content/uploads/2023/01/25567860_sTR-100x100.jpg"  alt="" decoding="async" loading="lazy" srcset="https://news.1242.com/wp-content/uploads/2023/01/25567860_sTR-100x100.jpg 100w, https://news.1242.com/wp-content/uploads/2023/01/25567860_sTR-160x160.jpg 160w" sizes="(max-width: 100px) 100vw, 100px" /></figure>
+	<div class="entry_title">
+	<h3 class="title_txt">「初心者向けの観葉植物」には、どんな種類があるの？</h3>
+	<p class="entry_meta">
+	<span class="author">NEWS ONLINE 編集部</span><time>2023.01.18</time>	</p>
+	</div>
+	</a>
+	</article>
+</div>
+<!-- /sidebar latest -->
+
+<div class="ads-sidebar">
+<!-- /62532913/p_nipponhousou_300x250_right-3_26228 -->
+<div id='div-gpt-ad-1578642545677-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1578642545677-0'); });
+</script>
+</div>
+</div>
+
+</aside>
+<!-- /sidebar -->
+<!-- /side -->
+
+
+</main>
+<!-- /main -->
+
+<p id="pagetop"><a href="#header">Page top</a></p>
+<!-- footer -->
+<footer id="footer">
+<nav id="footer_nav">
+<div class="container">
+	<h3>CATEGORIES：</h3>
+	<ul id="menu-footer-menu" class="footer-category"><li id="menu-item-97021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97021"><a href="https://news.1242.com/article/category/entertainment">エンタメ</a></li>
+<li id="menu-item-97022" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97022"><a href="https://news.1242.com/article/category/news">ニュース</a></li>
+<li id="menu-item-97023" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97023"><a href="https://news.1242.com/article/category/sports">スポーツ</a></li>
+<li id="menu-item-97024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97024"><a href="https://news.1242.com/article/category/column">コラム</a></li>
+<li id="menu-item-97025" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-97025"><a href="https://news.1242.com/article/category/life">ライフ</a></li>
+</ul></div>
+</nav>
+<nav id="footer_links">
+<div class="container">
+	<ul id="menu-footer-links" class="footer-links"><li id="menu-item-97014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97014"><a href="https://news.1242.com/about">「ニッポン放送 NEWS ONLINE」について</a></li>
+<li id="menu-item-97015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97015"><a href="/about#company">運営会社</a></li>
+<li id="menu-item-97016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97016"><a href="/about#site-policy">サイトポリシー</a></li>
+<li id="menu-item-97017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97017"><a href="/about#member">編集体制</a></li>
+<li id="menu-item-97018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97018"><a href="https://www.1242.com/lf/privacy_policy/">プライバシーポリシー</a></li>
+<li id="menu-item-97019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97019"><a href="/about#contact">お問い合わせ</a></li>
+<li id="menu-item-97020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97020"><a href="https://sales.1242.com/">広告掲載について</a></li>
+</ul></div>
+</nav>
+<div id="copyright">
+	<p>当ウェブサイトに掲載の記事、写真などの無断転載、加工しての使用などは一切禁止します。</p>
+	<address>Copyright Nippon Broadcasting System, Inc. All Rights Reserved.</address>
+</div>
+</footer>
+<!-- /footer -->
+
+
+
+
+<!-- /62532913/p_nipponhousou_728x90_overlay_26228 -->
+<style type="text/css">
+#fluct-pc-sticky-ad {
+
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  z-index: 2147483646;
+  border: 0px;
+  background: rgba(40, 40, 40, 0.3);
+  opacity: 1;
+}
+
+#div-gpt-ad-1591946294368-0 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);}
+
+#fluct-pc-sticky-ad-close-button {
+  width: 30px;
+  height: 30px;
+  background-size: 30px;
+  margin: 10px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-image: 
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAKxJREFUeNrMmMkNgCAQRem/CUuyBEoZ5UBCNIRtlmdC4un/B8psSUTud10p8Cn+haO+SBTQzz8KqOvrDTT08wKa9rEGWta3AtrW1QY61tMCUtvYqZD6J98VNLsMq8LmYWLWwC2AjozcU0vPMCzpfo2js38LkENBGqAKkqNBGCeD+WcwtwkTZzARGJObMFkbU89gKj1MDYzpDjB9E6ajxPTamCkEaj5Dmlw9AgwAidvvu78T6dYAAAAASUVORK5CYII=");
+  }
+</style>
+
+<div id="fluct-pc-sticky-ad" style="display: none;">
+  <div id="div-gpt-ad-1591946294368-0" style="height:90px; width:728px;"></div>
+  <div id="fluct-pc-sticky-ad-close-button"></div>
+  <script>
+    googletag.cmd.push(function() {
+        googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+            var stickyGptDivId = 'div-gpt-ad-1591946294368-0'
+            var fluctStickyAdDivId = 'fluct-pc-sticky-ad';
+            var closeButtionId = 'fluct-pc-sticky-ad-close-button';
+            var slot = e.slot;
+
+            if (slot.getSlotElementId() === stickyGptDivId && !e.isEmpty) {
+                var fluctStickyAdDiv = document.getElementById(fluctStickyAdDivId);
+                fluctStickyAdDiv.style.display = 'block';
+
+                var closeButton = document.getElementById(closeButtionId);
+                closeButton.addEventListener('click', function() {
+                    document.getElementById(fluctStickyAdDivId).style.display = 'none';
+                });
+            }
+        });
+        googletag.display('div-gpt-ad-1591946294368-0');
+    });
+  </script>
+</div>
+
+<!-- 以下は表示確認用のbodyタグ -->
+<div id='div-gpt-ad-1578642485266-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1578642485266-0');
+        });
+    </script>
+</div>
+<div id='div-gpt-ad-1591946294368-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1591946294368-0');
+        });
+    </script>
+</div>
+<div id='div-gpt-ad-1578642496759-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1578642496759-0');
+        });
+    </script>
+</div>
+<div id='div-gpt-ad-1578642509131-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1578642509131-0');
+        });
+    </script>
+</div>
+<div id='div-gpt-ad-1578642521034-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1578642521034-0');
+        });
+    </script>
+</div>
+<div id='div-gpt-ad-1578642532595-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1578642532595-0');
+        });
+    </script>
+</div>
+<div id='div-gpt-ad-1578642545677-0'>
+    <script>
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1578642545677-0');
+        });
+    </script>
+</div>
+
+
+</body> 
+</html>
